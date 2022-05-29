@@ -28,7 +28,7 @@ Berdasarkan percobaan 1B, alternative hypothesis bernilai true sehingga h0 ditol
 ## No2
 ### A. 
 #### Penjelasan singkat:
-Tidak Setuju.
+Setuju.
 
 ### B.
 #### Code:
