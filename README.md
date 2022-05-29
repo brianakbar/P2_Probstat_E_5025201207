@@ -25,3 +25,22 @@ Menggunakan perintah t.test untuk mendapatkan p-value yaitu '6.003e-05'
 #### Penjelasan singkat:
 Berdasarkan percobaan 1B, alternative hypothesis bernilai true sehingga h0 ditolak dan h1 diterima.
 
+## No2
+### A. 
+#### Penjelasan singkat:
+Tidak Setuju.
+
+### B.
+#### Code:
+![2B](https://user-images.githubusercontent.com/94432967/170868942-f52ca828-4654-4c58-89ad-fa4c0faeff12.png)
+
+#### Output:
+![2B output](https://user-images.githubusercontent.com/94432967/170868950-72187715-2474-405b-a6c4-cd06ea50d438.png)
+
+#### Penjelasan singkat:
+Berdasarkan percobaan diatas h1 "mobil dikemudikan rata-rata lebih dari 20.000 kilometer per tahun" diterima.
+
+### C.
+#### Penjelasan singkat:
+p-value yang ditemukan adalah 2.2e-16 yang berarti data yang dibandingkan tidak sama
+
