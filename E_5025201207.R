@@ -60,6 +60,8 @@ qplot(x = Temp, y = Light, geom = "point", data = GTL) +
 GTL$Glass <- as.factor(GTL$Glass)
 GTL$Temp_Factor <- as.factor(GTL$Temp)
 str(GTL)
+anova <- aov(Light ~ Glass*Temp_Factor, data = GTL)
+summary(anova)
 
 #-C-
 data_summary <- group_by(GTL, Glass, Temp) %>%
